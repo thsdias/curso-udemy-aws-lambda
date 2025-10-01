@@ -1,0 +1,6 @@
+D:\SourceControl\GitHub\curso-udemy-aws-lambda\AWSLambda\bin\Release\net8.0\publish\AWSLambda.deps.json
+D:\SourceControl\GitHub\curso-udemy-aws-lambda\AWSLambda\bin\Release\net8.0\publish\AWSLambda.runtimeconfig.json
+D:\SourceControl\GitHub\curso-udemy-aws-lambda\AWSLambda\bin\Release\net8.0\publish\AWSLambda.pdb
+D:\SourceControl\GitHub\curso-udemy-aws-lambda\AWSLambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+D:\SourceControl\GitHub\curso-udemy-aws-lambda\AWSLambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\SourceControl\GitHub\curso-udemy-aws-lambda\AWSLambda\bin\Release\net8.0\publish\AWSLambda.dll
