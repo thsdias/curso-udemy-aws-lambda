@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AWSLambda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8a275fb9d1ba3d798bf7919df9e5d26a5a7de0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+471e47e79e82faf2718ae65d013e38df93adbbb9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AWSLambda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AWSLambda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
