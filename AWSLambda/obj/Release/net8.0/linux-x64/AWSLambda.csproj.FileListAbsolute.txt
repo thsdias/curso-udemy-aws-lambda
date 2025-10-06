@@ -16,3 +16,5 @@ D:\SourceControl\GitHub\curso-udemy-aws-lambda\AWSLambda\obj\Release\net8.0\linu
 D:\SourceControl\GitHub\curso-udemy-aws-lambda\AWSLambda\obj\Release\net8.0\linux-x64\AWSLambda.pdb
 D:\SourceControl\GitHub\curso-udemy-aws-lambda\AWSLambda\obj\Release\net8.0\linux-x64\AWSLambda.genruntimeconfig.cache
 D:\SourceControl\GitHub\curso-udemy-aws-lambda\AWSLambda\obj\Release\net8.0\linux-x64\ref\AWSLambda.dll
+D:\SourceControl\GitHub\curso-udemy-aws-lambda\AWSLambda\bin\Release\net8.0\linux-x64\AWSSDK.Core.dll
+D:\SourceControl\GitHub\curso-udemy-aws-lambda\AWSLambda\bin\Release\net8.0\linux-x64\AWSSDK.DynamoDBv2.dll

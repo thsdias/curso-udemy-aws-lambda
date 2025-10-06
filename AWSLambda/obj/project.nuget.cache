@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KbLvzTJoIwA=",
+  "success": true,
+  "projectFilePath": "D:\\SourceControl\\GitHub\\curso-udemy-aws-lambda\\AWSLambda\\AWSLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thsdi\\.nuget\\packages\\amazon.lambda.core\\2.5.0\\amazon.lambda.core.2.5.0.nupkg.sha512",
+    "C:\\Users\\thsdi\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.4\\amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "C:\\Users\\thsdi\\.nuget\\packages\\awssdk.core\\4.0.0.32\\awssdk.core.4.0.0.32.nupkg.sha512",
+    "C:\\Users\\thsdi\\.nuget\\packages\\awssdk.dynamodbv2\\4.0.7\\awssdk.dynamodbv2.4.0.7.nupkg.sha512",
+    "C:\\Users\\thsdi\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.20\\microsoft.netcore.app.crossgen2.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
